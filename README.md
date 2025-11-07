@@ -6,7 +6,7 @@ BrillouinView is a Python-based graphical software tool designed for the analysi
 BrillouinView also uses the BurnMan package for advanced material modeling, so users should ensure that BurnMan is installed before running the software. Key features include data fitting, peak finding, and baseline correction, making it an essential tool for researchers in solid-state physics and materials science.
 
 The .exe file is accessible here:
-https://drive.google.com/file/d/1QOGOviSJANr7SuXHBLJq4nptf2gQ0qH-/view?usp=sharing  
+https://drive.google.com/file/d/1YhWJoaSDuTlS7VNawuR3TZfXEsbPpVUI/view?usp=drive_link 
 
 
 # Instructions
